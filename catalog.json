@@ -1,0 +1,25 @@
+{
+  "charts": {
+    "pacman": [
+      {
+        "apiVersion": "v2",
+        "appVersion": "0.5.3.1",
+        "created": "2024-04-29T19:04:26.883601-07:00",
+        "description": "Pac-Man for Kubernetes",
+        "digest": "39905f6299c769657ae8ae2d0d837ad7c914fd7d6897722890dd806de0c03e1b",
+        "home": "https://github.com/saintdle/pacman-tanzu",
+        "icon": "https://veducate.co.uk",
+        "maintainers": [
+          {
+            "name": "Dean Lewis"
+          }
+        ],
+        "name": "pacman",
+        "urls": [
+          "https://raw.githubusercontent.com/asadq06/PersonalCharts/master/pacman-0.1.0.tgz"
+        ],
+        "version": "0.1.0"
+      }
+    ]
+  }
+}
