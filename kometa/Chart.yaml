@@ -1,0 +1,9 @@
+apiVersion: v2
+appVersion: 0.5.3.1
+description: Pac-Man for Kubernetes
+home: https://github.com/saintdle/pacman-tanzu
+icon: https://veducate.co.uk
+maintainers:
+- name: Dean Lewis
+name: pacman
+version: 0.1.0
