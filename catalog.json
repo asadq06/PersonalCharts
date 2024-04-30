@@ -17,23 +17,10 @@
       "name": "blocky",
       "recommended": false,
       "title": "Blocky",
-      "maintainers": [
-        {
-          "name": "TrueCharts",
-          "email": "info@truecharts.org",
-          "url": "https://truecharts.org"
-        }
-      ],
+      "maintainers": [],
       "tags": [],
       "screenshots": [],
-      "sources": [
-        "https://github.com/Mozart409/blocky-frontend",
-        "https://0xerr0r.github.io/blocky/",
-        "https://github.com/0xERR0R/blocky",
-        "https://github.com/truecharts/charts/tree/master/charts/premium/blocky",
-        "https://hub.docker.com/r/spx01/blocky",
-        "https://quay.io/oriedge/k8s_gateway"
-      ],
+      "sources": [],
       "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/blocky.webp"
     }
   }
